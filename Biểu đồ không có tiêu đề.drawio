@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Trang-1" id="9SenhETPhg4WQxfGtNG_">
+    <mxGraphModel dx="1201" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sXHR1zcSd-XGqV7WCkEH-5" edge="1" parent="1" source="sXHR1zcSd-XGqV7WCkEH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sXHR1zcSd-XGqV7WCkEH-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sXHR1zcSd-XGqV7WCkEH-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cảm biến" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="sXHR1zcSd-XGqV7WCkEH-7" edge="1" parent="1" source="sXHR1zcSd-XGqV7WCkEH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sXHR1zcSd-XGqV7WCkEH-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sXHR1zcSd-XGqV7WCkEH-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Arduino" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="sXHR1zcSd-XGqV7WCkEH-9" edge="1" parent="1" source="sXHR1zcSd-XGqV7WCkEH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sXHR1zcSd-XGqV7WCkEH-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sXHR1zcSd-XGqV7WCkEH-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Relay" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="sXHR1zcSd-XGqV7WCkEH-11" edge="1" parent="1" source="sXHR1zcSd-XGqV7WCkEH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sXHR1zcSd-XGqV7WCkEH-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sXHR1zcSd-XGqV7WCkEH-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Động cơ băng tải" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="sXHR1zcSd-XGqV7WCkEH-13" edge="1" parent="1" source="sXHR1zcSd-XGqV7WCkEH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sXHR1zcSd-XGqV7WCkEH-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sXHR1zcSd-XGqV7WCkEH-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Chiết rót" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="sXHR1zcSd-XGqV7WCkEH-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="870" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
