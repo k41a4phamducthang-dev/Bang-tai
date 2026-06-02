@@ -28,14 +28,8 @@
         <mxCell id="sXHR1zcSd-XGqV7WCkEH-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Động cơ băng tải" vertex="1">
           <mxGeometry height="60" width="120" x="354" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="sXHR1zcSd-XGqV7WCkEH-13" edge="1" parent="1" source="sXHR1zcSd-XGqV7WCkEH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sXHR1zcSd-XGqV7WCkEH-12" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sXHR1zcSd-XGqV7WCkEH-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Chiết rót" vertex="1">
           <mxGeometry height="60" width="120" x="354" y="730" as="geometry" />
-        </mxCell>
-        <mxCell id="sXHR1zcSd-XGqV7WCkEH-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="354" y="870" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
